@@ -11,3 +11,7 @@ network.txt хранить данные по вайфая
 сейчас хочу реализовать управления цветом и эффектами отображения цифр, есть желание написать приложение на андроид, но я пока в нем не понимаю
 создать и научить принимать нужные команды по udp уже умею, так как есть m5stack c работающим кодом, что то типа streemdeck, но не такой красивый,
 да и экран не такой большой
+![IMG_20220728_202536](https://user-images.githubusercontent.com/106085169/181601522-9aa95c09-633c-4d32-ae75-7d49ed48cbc2.jpg)
+![IMG_20220728_202616](https://user-images.githubusercontent.com/106085169/181601704-0afd7044-f8d4-4e7a-8b7f-fdc3c15738d2.jpg)
+![IMG_20220728_202626](https://user-images.githubusercontent.com/106085169/181601591-fd46f86c-4379-4079-954a-31e158a4bfee.jpg)
+![image](https://user-images.githubusercontent.com/106085169/181601677-fab26c83-adef-475d-be6f-d87a27f75238.png)
